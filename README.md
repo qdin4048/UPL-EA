@@ -3,11 +3,11 @@ Entity alignment (EA) aims at identifying equivalent entity pairs across differe
 
 <img width="2155" height="1051" alt="404f2c83b2e016145003b601c85309c" src="https://github.com/user-attachments/assets/dfb4dbf8-7cdb-41cd-a110-0f68ba57f954" />
 
-Environment:
-python--3.9.13;
-pytorch--1.13.0+cu117;
-cudatoolkit--11.7.
+Environment:\
+python--3.9.13;\
+pytorch--1.13.0+cu117;\
+cudatoolkit--11.7.\
 
-Source codes instructions:
-1.Download the "data.zip" from https://drive.google.com/file/d/1PkDscyIt2z4n3D2Qm-tB9x2ZslY9PCN8/view?usp=drive_link, then extract it to replace the original "data" folder in the depository;
+Source codes instructions:\
+1.Download the "data.zip" from https://drive.google.com/file/d/1PkDscyIt2z4n3D2Qm-tB9x2ZslY9PCN8/view?usp=drive_link, then extract it to replace the original "data" folder in the depository;\
 2.Open the file named "training.py" with Spyder to reproduce results of UPL-EA by clicking "Run file".
